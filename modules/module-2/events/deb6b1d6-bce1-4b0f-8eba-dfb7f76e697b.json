@@ -1,0 +1,18 @@
+{
+  "id": "deb6b1d6-bce1-4b0f-8eba-dfb7f76e697b",
+  "name": "button1 On click",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "73ffef04-0d46-4ed6-b649-a5bb2c5880bc",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button1",
+    "queryName": "input2",
+    "parameters": {}
+  },
+  "sourceId": "49fd8fd2-5887-4abe-b47d-6639df3a7024",
+  "target": "component",
+  "appVersionId": "75085921-b58c-412f-b703-c63d0239496c"
+}
