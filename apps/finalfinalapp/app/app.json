@@ -1,0 +1,13 @@
+{
+  "id": "dd64cd01-69ea-4304-b865-ca904e42bb7b",
+  "name": "finalfinalapp",
+  "type": "front-end",
+  "slug": "5b007ba7-cbc6-4b74-ab0c-c6e436afef87",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
