@@ -1,0 +1,13 @@
+{
+  "id": "fb601320-f531-4d63-bc13-544babf63bc4",
+  "name": "brand new module",
+  "type": "module",
+  "slug": "4ef3e00f-d24a-49ff-8041-56f31aa843a9",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "layers",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
