@@ -230,13 +230,13 @@
   "general": {},
   "styles": {
     "columnTitleColor": {
-      "value": "var(--cc-primary-text)"
+      "value": "var(--cc-error-systemStatus)"
     },
     "columnBackgroundColor": {
       "value": "var(--cc-surface1-surface)"
     },
     "containerBackgroundColor": {
-      "value": "var(--cc-surface1-surface)"
+      "value": "var(--cc-success-systemStatus)"
     },
     "textColor": {
       "value": "var(--cc-primary-text)"
@@ -260,7 +260,7 @@
       "value": "6"
     },
     "borderColor": {
-      "value": "var(--cc-weak-border)"
+      "value": "var(--cc-primary-text)"
     },
     "tableType": {
       "value": "table-classic"
