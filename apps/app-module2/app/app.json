@@ -3,7 +3,7 @@
   "name": "app-module2",
   "type": "front-end",
   "slug": "f24601a0-35d6-4e8d-93ad-52e2d9730ec6",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
