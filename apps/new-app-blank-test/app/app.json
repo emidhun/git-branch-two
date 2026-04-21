@@ -1,0 +1,13 @@
+{
+  "id": "d3c71b5f-d8d5-4e2b-9d6f-cb4687e809a9",
+  "name": "new-app-blank-test",
+  "type": "front-end",
+  "slug": "eef8f4c1-fc1f-4593-8a5c-1783653fc805",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "globe",
+  "tooljetVersion": "3.21.21-beta-ee"
+}

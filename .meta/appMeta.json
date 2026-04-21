@@ -22,5 +22,9 @@
   "81532f9b-9475-4d3f-949e-a465fa7ed90c": {
     "appPath": "apps/starting app",
     "updatedAt": "2026-04-21T04:52:11.627Z"
+  },
+  "d3c71b5f-d8d5-4e2b-9d6f-cb4687e809a9": {
+    "appPath": "apps/new-app-blank-test",
+    "updatedAt": "2026-04-21T05:00:47.637Z"
   }
 }
