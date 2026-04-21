@@ -1,12 +1,12 @@
 {
-  "id": "57ec999e-3d0f-439f-9f78-7628160e2850",
+  "id": "e082041b-0ff7-4ef0-a10b-4445971d5b47",
   "name": "button1",
   "type": "Button",
-  "pageId": "b928626e-b4b3-41ef-b212-2569283d2685",
-  "parent": null,
+  "pageId": "24e9e14d-e96d-412e-876a-c4766946d164",
+  "parent": "2e0f2675-619d-451e-ac60-b08727a7e739",
   "properties": {
     "text": {
-      "value": "Button"
+      "value": "show environment of module : {{globals.environment.name}}"
     },
     "visibility": {
       "value": "{{true}}"
@@ -45,7 +45,7 @@
       "value": "{{6}}"
     },
     "backgroundColor": {
-      "value": "var(--cc-primary-brand)"
+      "value": "var(--cc-error-systemStatus)"
     },
     "hoverBackgroundMode": {
       "value": "auto"
@@ -54,7 +54,7 @@
       "value": "var(--cc-primary-brand)"
     },
     "iconColor": {
-      "value": "var(--cc-default-icon)"
+      "value": "var(--cc-surface1-surface)"
     },
     "direction": {
       "value": "left"
@@ -69,7 +69,7 @@
       "value": "IconAlignBoxBottomLeft"
     },
     "iconVisibility": {
-      "value": false
+      "value": "{{true}}"
     },
     "type": {
       "value": "primary"
@@ -87,23 +87,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "09892239-6f72-4a45-a412-a8f32e7fe912",
+      "id": "9cb4151b-e633-425e-afeb-34bbb31798cb",
       "type": "desktop",
       "top": 80,
-      "left": 20,
-      "width": 15,
-      "height": 430,
-      "componentId": "57ec999e-3d0f-439f-9f78-7628160e2850",
+      "left": 1,
+      "width": 40,
+      "height": 40,
+      "componentId": "e082041b-0ff7-4ef0-a10b-4445971d5b47",
       "dimensionUnit": "count"
     },
     {
-      "id": "2815d50b-b10c-421c-bc7a-d7417da0d925",
+      "id": "9339f5ea-b4b9-4133-8331-11d466a40a48",
       "type": "mobile",
-      "top": 530,
-      "left": 8,
-      "width": 4,
+      "top": 80,
+      "left": 1,
+      "width": 10,
       "height": 40,
-      "componentId": "57ec999e-3d0f-439f-9f78-7628160e2850",
+      "componentId": "e082041b-0ff7-4ef0-a10b-4445971d5b47",
       "dimensionUnit": "count"
     }
   ]

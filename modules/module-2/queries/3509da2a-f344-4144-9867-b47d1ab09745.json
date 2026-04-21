@@ -1,5 +1,5 @@
 {
-  "id": "dc82aeca-850f-4a93-a647-6c2ebae6cefc",
+  "id": "3509da2a-f344-4144-9867-b47d1ab09745",
   "name": "restapi1",
   "options": {
     "method": "get",
@@ -20,11 +20,11 @@
     "json_body": null,
     "body_toggle": false,
     "retry_network_errors": null,
-    "enable_transformation": false,
-    "array_values_changed": true,
-    "show_success_notification": false,
-    "success_message": "",
-    "transformationLanguage": "javascript"
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "arrayValuesChanged": true,
+    "showSuccessNotification": false,
+    "successMessage": ""
   },
   "dataSourceId": "32f509ec-25cb-4306-a3ac-8783ed9c1443",
   "appVersionId": "75085921-b58c-412f-b703-c63d0239496c"
