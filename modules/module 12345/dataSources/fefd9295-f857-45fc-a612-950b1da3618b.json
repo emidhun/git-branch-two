@@ -1,0 +1,9 @@
+{
+  "id": "fefd9295-f857-45fc-a612-950b1da3618b",
+  "name": "runjsdefault",
+  "kind": "runjs",
+  "type": "static",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}
