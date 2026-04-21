@@ -11,11 +11,11 @@
     "json_body": null,
     "body_toggle": false,
     "retry_network_errors": null,
-    "transformationLanguage": "javascript",
-    "enableTransformation": false,
-    "runOnPageLoad": true,
-    "showSuccessNotification": true,
-    "successMessage": "success"
+    "enable_transformation": false,
+    "run_on_page_load": true,
+    "show_success_notification": true,
+    "success_message": "success",
+    "transformationLanguage": "javascript"
   },
   "dataSourceId": "32f509ec-25cb-4306-a3ac-8783ed9c1443",
   "appVersionId": "1fb42f11-69ff-472d-adb1-a2f64ecebae3"
