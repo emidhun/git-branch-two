@@ -1,0 +1,13 @@
+{
+  "id": "20e9f654-1e58-4e8d-b4e8-f7c30e20395d",
+  "name": "app xcy",
+  "type": "front-end",
+  "slug": "9f06a184-1dfd-4718-bd23-bc0c749c71e7",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.23-beta-ee"
+}

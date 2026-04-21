@@ -1,0 +1,15 @@
+{
+  "id": "5a1f915d-68e4-43f3-bf7c-fc9ce075729e",
+  "name": "buttongroup1 On click",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "buttongroup1"
+  },
+  "sourceId": "970c6b03-5a1c-4b49-999c-bcb50042b7d7",
+  "target": "component",
+  "appVersionId": "75085921-b58c-412f-b703-c63d0239496c"
+}

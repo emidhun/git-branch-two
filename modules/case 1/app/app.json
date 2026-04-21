@@ -1,0 +1,13 @@
+{
+  "id": "8a9a1bb3-2e2a-4dec-b487-311b5bf72b43",
+  "name": "case 1",
+  "type": "module",
+  "slug": "eeedeede-72f7-4279-ba5f-c72a562acffb",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.23-beta-ee"
+}

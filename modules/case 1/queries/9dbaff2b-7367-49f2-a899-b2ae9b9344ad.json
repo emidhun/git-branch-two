@@ -1,0 +1,12 @@
+{
+  "id": "9dbaff2b-7367-49f2-a899-b2ae9b9344ad",
+  "name": "runjs1_copy",
+  "options": {
+    "code": "actions.showAlert('success', input.input1)\nreturn 'test'",
+    "parameters": [],
+    "showSuccessNotification": false,
+    "successMessage": "{{components.2e0f2675-619d-451e-ac60-b08727a7e739.id}}"
+  },
+  "dataSourceId": "36b45cac-181c-4ecb-88bb-d7c7d3ecf3e7",
+  "appVersionId": "75085921-b58c-412f-b703-c63d0239496c"
+}

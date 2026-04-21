@@ -1,0 +1,14 @@
+{
+  "id": "d6d3b60a-df62-4fe1-9839-8fa953e6ad0d",
+  "name": "restapi1 Query Success",
+  "index": 0,
+  "event": {
+    "eventId": "onDataQuerySuccess",
+    "message": "{{queries.3509da2a-f344-4144-9867-b47d1ab09745.data.message}}",
+    "actionId": "show-alert",
+    "alertType": "info"
+  },
+  "sourceId": "3509da2a-f344-4144-9867-b47d1ab09745",
+  "target": "data_query",
+  "appVersionId": "75085921-b58c-412f-b703-c63d0239496c"
+}
