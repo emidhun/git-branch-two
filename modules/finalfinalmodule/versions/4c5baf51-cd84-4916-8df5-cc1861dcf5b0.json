@@ -1,5 +1,5 @@
 {
-  "id": "10348dd1-35c4-4b50-84a8-94a079995160",
+  "id": "4c5baf51-cd84-4916-8df5-cc1861dcf5b0",
   "definition": {},
   "globalSettings": {
     "appInMaintenance": false,
@@ -16,8 +16,8 @@
   "versionType": "version",
   "appId": "4c5baf51-cd84-4916-8df5-cc1861dcf5b0",
   "promotedFrom": null,
-  "status": "DRAFT",
-  "description": "",
+  "status": "PUBLISHED",
+  "description": null,
   "publishedAt": null,
   "releasedAt": null,
   "isStub": false,
