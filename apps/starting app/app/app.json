@@ -1,0 +1,13 @@
+{
+  "id": "81532f9b-9475-4d3f-949e-a465fa7ed90c",
+  "name": "starting app",
+  "type": "front-end",
+  "slug": "2e589cf4-de06-435f-83ee-050c4d7bbad2",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
