@@ -1,0 +1,39 @@
+{
+  "id": "9643a7ec-27ce-403b-b51e-0f70630759f0",
+  "name": "runQueryBtn",
+  "type": "Button",
+  "pageId": "668bc13d-94f2-4993-bfac-f1201dd5bb08",
+  "parent": null,
+  "properties": {
+    "text": {
+      "value": "Run query"
+    }
+  },
+  "general": null,
+  "styles": {},
+  "generalStyles": null,
+  "displayPreferences": null,
+  "validation": {},
+  "layouts": [
+    {
+      "id": "301aeb39-f61f-4361-b815-28bb163c2625",
+      "type": "desktop",
+      "top": 30,
+      "left": 10,
+      "width": 6,
+      "height": 40,
+      "componentId": "9643a7ec-27ce-403b-b51e-0f70630759f0",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "7d76d975-2f0b-446c-9a3a-53937677b857",
+      "type": "mobile",
+      "top": 30,
+      "left": 10,
+      "width": 6,
+      "height": 40,
+      "componentId": "9643a7ec-27ce-403b-b51e-0f70630759f0",
+      "dimensionUnit": "count"
+    }
+  ]
+}
