@@ -1,0 +1,32 @@
+{
+  "id": "3b8cb833-ef2e-4f55-85f8-f34b784c7c92",
+  "name": "q-1778701809052-qob4h1",
+  "options": {
+    "method": "get",
+    "url": "/users/1",
+    "url_params": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "headers": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "body": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "json_body": null,
+    "body_toggle": false
+  },
+  "dataSourceId": "ab88435c-b9c2-4490-a26b-7cd649c4d2bb",
+  "appVersionId": "e135ded9-1d21-442c-bb4f-6be9f1e1e8e4",
+  "kind": "restapi",
+  "dataSourceType": "default"
+}
