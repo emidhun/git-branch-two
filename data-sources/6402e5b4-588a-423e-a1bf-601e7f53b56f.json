@@ -1,0 +1,38 @@
+{
+  "id": "6402e5b4-588a-423e-a1bf-601e7f53b56f",
+  "name": "restapi-1779215357906-h82564",
+  "kind": "restapi",
+  "type": "default",
+  "options": {
+    "development": {
+      "url": "https://jsonplaceholder.typicode.com",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "auth_type": "none"
+    },
+    "production": {
+      "url": "https://jsonplaceholder.typicode.com",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "auth_type": "none"
+    },
+    "staging": {
+      "url": "https://jsonplaceholder.typicode.com",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "auth_type": "none"
+    }
+  }
+}
