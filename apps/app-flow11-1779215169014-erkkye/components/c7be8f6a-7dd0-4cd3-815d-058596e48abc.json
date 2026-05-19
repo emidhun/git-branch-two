@@ -1,0 +1,45 @@
+{
+  "id": "c7be8f6a-7dd0-4cd3-815d-058596e48abc",
+  "name": "embeddedmodulepinned",
+  "type": "ModuleViewer",
+  "pageId": "4bc7c68d-cfb7-4ad6-836f-4eb0ca97e454",
+  "parent": null,
+  "properties": {
+    "moduleAppId": {
+      "value": "2474e3f4-c0fb-48d8-bc33-3ba4182346e9"
+    },
+    "moduleVersionId": {
+      "value": "649772d8-8d4f-4ff2-b7db-c9c02e9745e4"
+    },
+    "visibility": {
+      "value": true
+    }
+  },
+  "general": null,
+  "styles": {},
+  "generalStyles": null,
+  "displayPreferences": null,
+  "validation": {},
+  "layouts": [
+    {
+      "id": "ef40b838-b233-45cc-81be-fd09ad63d67a",
+      "type": "desktop",
+      "top": 20,
+      "left": 5,
+      "width": 30,
+      "height": 400,
+      "componentId": "c7be8f6a-7dd0-4cd3-815d-058596e48abc",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "86f028cc-ddbb-483d-b396-a51f0991fa5b",
+      "type": "mobile",
+      "top": 20,
+      "left": 0,
+      "width": 12,
+      "height": 400,
+      "componentId": "c7be8f6a-7dd0-4cd3-815d-058596e48abc",
+      "dimensionUnit": "count"
+    }
+  ]
+}
