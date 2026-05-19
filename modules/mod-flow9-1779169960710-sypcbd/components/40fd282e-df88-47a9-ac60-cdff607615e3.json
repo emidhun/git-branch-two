@@ -1,0 +1,39 @@
+{
+  "id": "40fd282e-df88-47a9-ac60-cdff607615e3",
+  "name": "modulemarker",
+  "type": "Text",
+  "pageId": "e84ddb02-cc1c-4942-8cdd-ad306c02390b",
+  "parent": null,
+  "properties": {
+    "text": {
+      "value": "flow9-mod-1779169960710-sypcbd"
+    }
+  },
+  "general": null,
+  "styles": {},
+  "generalStyles": null,
+  "displayPreferences": null,
+  "validation": {},
+  "layouts": [
+    {
+      "id": "d356405e-c0f2-4eee-a9ef-4e267af21a60",
+      "type": "desktop",
+      "top": 90,
+      "left": 10,
+      "width": 12,
+      "height": 40,
+      "componentId": "40fd282e-df88-47a9-ac60-cdff607615e3",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "0ccb2f75-4dfd-402d-9c2b-de45bcb703ba",
+      "type": "mobile",
+      "top": 90,
+      "left": 10,
+      "width": 12,
+      "height": 40,
+      "componentId": "40fd282e-df88-47a9-ac60-cdff607615e3",
+      "dimensionUnit": "count"
+    }
+  ]
+}
