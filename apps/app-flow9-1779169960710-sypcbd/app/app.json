@@ -1,0 +1,13 @@
+{
+  "id": "840c6b0b-53b1-4d43-bc59-b8fcea3ae480",
+  "name": "app-flow9-1779169960710-sypcbd",
+  "type": "front-end",
+  "slug": "09b4e60a-ee56-41b7-b51d-59efa72acb66",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.31-beta-ee"
+}
